@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-Expertise-714B67?style=for-the-badge&logo=odoo&logoColor=white">
-  <img src="https://img.shields.io/badge/OCA-Contributors-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Odoo.sh-DevOps-blue?style=for-the-badge">
+  <a href="https://www.vsm.com.br">
+    <img src="https://img.shields.io/badge/VSM-Website-34B8DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VSM Website">
+  </a>
+  <a href="https://www.youtube.com/c/VSMEnterpriseSolutions">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VSM YouTube Channel">
+  </a>
+  <a href="https://www.vsm.com.br/partners">
+    <img src="https://img.shields.io/badge/Odoo-Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="VSM Odoo Partner">
+  </a>
 </p>
 
 ---
@@ -41,21 +47,21 @@
 - 🐘 PostgreSQL (modelagem de dados)
 - 🌐 Owl/JavaScript (frontend moderno)
 - 🌍 Odoo.sh & Docker (infraestrutura)
+- 🤝 OCA modules & contributions
 
+---
 
+## 📈 Performance com Odoo é assim:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VSM-Enterprise-Solutions&show_icons=true&theme=radical&hide_title=true" alt="VSM GitHub Stats" />
+</p>
+
+---
 
 ## 📬 Contato
 
 <p align="center">
   🌐 <a href="https://www.vsm.com.br">www.vsm.com.br</a> &nbsp;|&nbsp;
   📧 contato@vsm.com.br &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/company/vsm-enterprise-solutions">LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  <em>VSM + Odoo = eficiência real para sua operação.</em><br/>
-  <strong>#WeLiveOdoo</strong>
-</p>
+  🔗 <a href="https://li
