@@ -1,58 +1,53 @@
-## Hi there 👋
+<!-- VSM-Enterprise-Solutions README -->
 
-<!-- VSM README -->
-
-<h1 align="center">🚀 VSM Tecnologia</h1>
+<h1 align="center">🚀 VSM Enterprise Solutions</h1>
 <p align="center">
-  Especialistas em soluções empresariais com <strong>Odoo</strong> | Transformação digital para o seu negócio.
+  Implantamos, personalizamos e potencializamos empresas com <strong>Odoo ERP</strong>.
 </p>
 
 ---
 
 ## 🧠 Quem somos
 
-Somos a **VSM**, uma empresa de tecnologia com foco em **implantação, customização e suporte especializado em Odoo ERP**.
+A **VSM** é uma empresa 100% especializada em **Odoo ERP**.
 
-Trabalhamos para simplificar processos, integrar sistemas e oferecer soluções sob medida que fazem sua empresa crescer com tecnologia de ponta.
-
----
-
-## 🛠️ Nossos serviços
-
-- 📦 Implantação completa do **Odoo**
-- 🧩 Customizações específicas para seu negócio
-- ☁️ Integrações com sistemas externos (APIs, gateways, marketplaces etc.)
-- 🛠️ Suporte técnico e manutenção contínua
-- 🧾 Treinamento de usuários e consultoria funcional
+Atuamos com foco total na **implantação**, **customização**, **suporte** e **evolução contínua** da plataforma, entregando soluções empresariais robustas, escaláveis e sob medida.
 
 ---
 
-## 📊 Nossas tecnologias
+## 💼 Nossos serviços em Odoo
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+- 🔧 Implantação do Odoo (Community e Enterprise)
+- 🧩 Desenvolvimento de módulos personalizados
+- 🧠 Consultoria funcional e desenho de processos
+- 📊 Relatórios e dashboards com QWeb
+- 🔌 Integrações com sistemas externos (APIs, marketplaces, ERPs)
+- ☁️ Deploy no Odoo.sh ou infraestrutura dedicada
+- 🔄 Suporte técnico contínuo
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🔧 Nossa stack Odoo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsm&show_icons=true&theme=tokyonight" alt="Estatísticas da VSM" />
-</p>
+- **Odoo (v12 a v17)** – Community e Enterprise
+- **Python** – Lógica de negócios e automações
+- **XML / QWeb** – Layouts, relatórios e views
+- **PostgreSQL** – Banco de dados
+- **Odoo.sh** – Hospedagem oficial Odoo
+- **OCA (Odoo Community Association)** – Módulos e boas práticas
+- **JavaScript / Owl** – Web e frontend no Odoo 14+
 
 ---
 
 ## 🤝 Vamos conversar?
 
-- 🌐 Site: [www.vsm.com.br](https://www.vsm.com.br) *(ou o link real do seu site)*
+- 🌐 Site: [www.vsm.com.br](https://www.vsm.com.br)
 - 📧 Email: contato@vsm.com.br
-- 💼 LinkedIn: [linkedin.com/company/vsm-tecnologia](https://linkedin.com/company/vsm-tecnologia)
+- 💼 LinkedIn: [linkedin.com/company/vsm-enterprise-solutions](https://linkedin.com/company/vsm-enterprise-solutions)
 
 ---
 
 <p align="center">
-  <em>Transformamos desafios em soluções digitais. Conte com a VSM!</em>
+  <em>Transformamos o Odoo em um sistema que fala a língua do seu negócio.</em><br/>
+  <strong>Somos especialistas. Somos VSM.</strong>
 </p>
