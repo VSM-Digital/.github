@@ -51,13 +51,6 @@
 
 ---
 
-## 📈 Performance com Odoo é assim:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSM-Enterprise-Solutions&show_icons=true&theme=radical&hide_title=true" alt="VSM GitHub Stats" />
-</p>
-
----
 
 ## 📬 Contato
 
