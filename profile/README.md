@@ -1,53 +1,69 @@
-<!-- VSM-Enterprise-Solutions README -->
+<!-- VSM - README com foco moderno e visual -->
 
-<h1 align="center">🚀 VSM Enterprise Solutions</h1>
+<h1 align="center">
+  🚀 VSM Enterprise Solutions
+</h1>
+
 <p align="center">
-  Implantamos, personalizamos e potencializamos empresas com <strong>Odoo ERP</strong>.
+  <strong>Expertise em Odoo ERP.</strong><br>
+  Transformamos processos empresariais em fluxos digitais inteligentes com <strong>Odoo</strong>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-Expertise-714B67?style=for-the-badge&logo=odoo&logoColor=white">
+  <img src="https://img.shields.io/badge/OCA-Contributors-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Odoo.sh-DevOps-blue?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 Quem somos
+## 💡 Sobre nós
 
-A **VSM** é uma empresa 100% especializada em **Odoo ERP**.
-
-Atuamos com foco total na **implantação**, **customização**, **suporte** e **evolução contínua** da plataforma, entregando soluções empresariais robustas, escaláveis e sob medida.
-
----
-
-## 💼 Nossos serviços em Odoo
-
-- 🔧 Implantação do Odoo (Community e Enterprise)
-- 🧩 Desenvolvimento de módulos personalizados
-- 🧠 Consultoria funcional e desenho de processos
-- 📊 Relatórios e dashboards com QWeb
-- 🔌 Integrações com sistemas externos (APIs, marketplaces, ERPs)
-- ☁️ Deploy no Odoo.sh ou infraestrutura dedicada
-- 🔄 Suporte técnico contínuo
+> A VSM é uma empresa de tecnologia 100% dedicada ao ecossistema Odoo.  
+> Da primeira modelagem ao último deploy, vivemos Odoo todos os dias.  
+>  
+> 📍 Sediados no Brasil, entregamos soluções Odoo para empresas do mundo todo.
 
 ---
 
-## 🔧 Nossa stack Odoo
+## 🛠️ O que fazemos com Odoo
 
-- **Odoo (v12 a v17)** – Community e Enterprise
-- **Python** – Lógica de negócios e automações
-- **XML / QWeb** – Layouts, relatórios e views
-- **PostgreSQL** – Banco de dados
-- **Odoo.sh** – Hospedagem oficial Odoo
-- **OCA (Odoo Community Association)** – Módulos e boas práticas
-- **JavaScript / Owl** – Web e frontend no Odoo 14+
+| 💼 Implantação | 🧩 Customização | 📊 BI & Relatórios | ☁️ Odoo.sh | 🔌 Integrações |
+|---------------|----------------|--------------------|------------|----------------|
+| Setup completo, parametrização, multiempresa e multiidioma | Módulos sob demanda, lógica personalizada | Relatórios em QWeb, dashboards, KPIs | Deploys automatizados e gestão de branches | APIs, marketplaces, ERPs, gateways |
 
 ---
 
-## 🤝 Vamos conversar?
+## 🧬 Nosso DNA Odoo
 
-- 🌐 Site: [www.vsm.com.br](https://www.vsm.com.br)
-- 📧 Email: contato@vsm.com.br
-- 💼 LinkedIn: [linkedin.com/company/vsm-enterprise-solutions](https://linkedin.com/company/vsm-enterprise-solutions)
+- 🐍 Python (backend Odoo)
+- 🧾 XML + QWeb (views & relatórios)
+- 🐘 PostgreSQL (modelagem de dados)
+- 🌐 Owl/JavaScript (frontend moderno)
+- 🌍 Odoo.sh & Docker (infraestrutura)
+- 🤝 OCA modules & contributions
+
+---
+
+## 📈 Performance com Odoo é assim:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VSM-Enterprise-Solutions&show_icons=true&theme=radical&hide_title=true" alt="VSM GitHub Stats" />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  🌐 <a href="https://www.vsm.com.br">www.vsm.com.br</a> &nbsp;|&nbsp;
+  📧 contato@vsm.com.br &nbsp;|&nbsp;
+  🔗 <a href="https://linkedin.com/company/vsm-enterprise-solutions">LinkedIn</a>
+</p>
 
 ---
 
 <p align="center">
-  <em>Transformamos o Odoo em um sistema que fala a língua do seu negócio.</em><br/>
-  <strong>Somos especialistas. Somos VSM.</strong>
+  <em>VSM + Odoo = eficiência real para sua operação.</em><br/>
+  <strong>#WeLiveOdoo</strong>
 </p>
