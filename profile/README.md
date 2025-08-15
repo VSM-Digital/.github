@@ -1,4 +1,4 @@
-<!-- VSM - README moderno e visual -->
+<!-- VSM - README moderno e técnico -->
 
 <h1 align="center">
    🚀 VSM Digital
@@ -26,52 +26,48 @@
 ## 💡 Sobre nós
 
 > A **VSM Digital** é uma empresa 100% dedicada ao ecossistema **Odoo**.  
-> Da modelagem inicial ao deploy final, respiramos Odoo todos os dias.  
->  
-> 📍 Sediados no Brasil, entregamos projetos para empresas do mundo todo.
-
-- 🔹 Parceiros oficiais Odoo  
-- 🔹 Mais de **X anos** de experiência no ERP  
-- 🔹 Projetos em **diversos segmentos**: indústria, comércio, serviços, logística e e-commerce
+> Atuamos em todas as etapas: análise, desenvolvimento, implantação, treinamento e suporte.  
+> Nosso objetivo é transformar o Odoo no **ERP sob medida** para o seu negócio.
 
 ---
 
-## 🛠️ O que fazemos com Odoo
+## 🛠️ Serviços Odoo
 
 | 💼 Implantação | 🧩 Customização | 📊 BI & Relatórios | ☁️ Odoo.sh | 🔌 Integrações |
 |---------------|----------------|--------------------|------------|----------------|
-| Setup completo, parametrização, multiempresa e multiidioma | Módulos sob demanda, lógica personalizada | Relatórios em QWeb, dashboards, KPIs | Deploys automatizados e gestão de branches | APIs, marketplaces, ERPs, gateways |
+| Setup completo, parametrização, multiempresa e multiidioma | Módulos sob demanda, lógica de negócio personalizada | Relatórios QWeb, dashboards e KPIs estratégicos | Deploys automatizados, versionamento e gestão de branches | Integrações com APIs, marketplaces, ERPs e gateways de pagamento |
 
 ---
 
-## 🧬 Nosso DNA Odoo
+## 🧬 Tecnologias & Stack Odoo
 
-- 🐍 **Python** – backend Odoo
-- 🧾 **XML + QWeb** – views e relatórios
-- 🐘 **PostgreSQL** – modelagem de dados
-- 🌐 **Owl/JavaScript** – frontend moderno
-- ☁️ **Odoo.sh & Docker** – infraestrutura
-- 🤝 **OCA modules** – contribuições open-source
+- **Backend**
+  - 🐍 Python (lógica de negócio e módulos Odoo)
+  - 🐘 PostgreSQL (modelagem e performance de banco de dados)
+- **Frontend**
+  - 🧾 XML + QWeb (views e relatórios)
+  - 🌐 JavaScript / OWL Framework (componentes dinâmicos no Odoo 15+)
+  - 🎨 CSS / SCSS (customização visual)
+- **Infraestrutura**
+  - ☁️ Odoo.sh (CI/CD e hospedagem oficial)
+  - 🐳 Docker (ambientes de desenvolvimento e produção)
+  - 🔄 Git (versionamento e fluxo de branches)
+- **Ferramentas & Comunidade**
+  - 🤝 OCA (Odoo Community Association)
+  - 📦 Módulos customizados e repositórios privados
+  - 🔍 Debugging com Odoo Shell e ferramentas de profiling
 
 ---
 
-## 📈 Nossos diferenciais
+## 📦 Principais áreas do Odoo que atendemos
 
-- ✅ Consultoria estratégica para alinhar Odoo ao seu negócio
-- ✅ Time especializado e certificado
-- ✅ Metodologia ágil para entregas rápidas
-- ✅ Suporte pós-implantação
-- ✅ Documentação e treinamento completo
-
----
-
-## 📸 Portfólio & Cases
-
-🔹 **[E-commerce integrado a marketplaces](#)**  
-🔹 **[ERP para indústria com MRP avançado](#)**  
-🔹 **[Sistema financeiro multiempresa](#)**  
-
-*(Solicite mais cases pelo nosso contato)*
+- 📦 **Vendas & CRM** – automação de funil, gestão de clientes e oportunidades
+- 🏭 **Produção (MRP)** – controle de ordens, listas técnicas e chão de fábrica
+- 🛒 **E-commerce & Website** – integração com marketplaces e personalização de layout
+- 📦 **Estoque & Logística** – rastreabilidade, multi-localização e WMS
+- 💰 **Financeiro & Contábil** – integração bancária, conciliação e relatórios fiscais
+- 📑 **Projetos & Serviços** – gestão de tarefas, prazos e faturamento por projeto
+- 🧾 **Fiscal (Brasil)** – NF-e, NFC-e, NFS-e e integração com SEFAZ
 
 ---
 
