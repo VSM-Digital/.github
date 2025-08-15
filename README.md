@@ -58,7 +58,6 @@
 <p align="center">
   🌐 <a href="https://www.vsm.com.br">www.vsm.com.br</a> &nbsp;|&nbsp;
   📧 contato@vsm.com.br &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/company/vsm-enterprise-solutions">LinkedIn</a>
 </p>
 
 ---
