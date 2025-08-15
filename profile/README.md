@@ -67,7 +67,7 @@
 - 📦 **Estoque & Logística** – rastreabilidade, multi-localização e WMS
 - 💰 **Financeiro & Contábil** – integração bancária, conciliação e relatórios fiscais
 - 📑 **Projetos & Serviços** – gestão de tarefas, prazos e faturamento por projeto
-- 🧾 **Fiscal (Brasil)** – NF-e, NFC-e, NFS-e, integração com SEFAZ e obrigações Acess
+- 🧾 **Fiscal (Brasil)** – NF-e, NFC-e, NFS-e, integração com SEFAZ e obrigações Acessórias
 
 ---
 
