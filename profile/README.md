@@ -10,14 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.vsm.com.br">
+  <a href="https://www.vsmdigital.com.br">
     <img src="https://img.shields.io/badge/VSM-Website-34B8DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VSM Website">
   </a>
-  <a href="https://www.youtube.com/c/VSMEnterpriseSolutions">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VSM YouTube Channel">
-  </a>
   <a href="https://www.vsm.com.br/partners">
-    <img src="https://img.shields.io/badge/Odoo-Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="VSM Odoo Partner">
+    <img src="https://www.odoo.com/pt_BR/partners/vinicius-carvalho-da-silveira-consultoria-14886290?style=for-the-badge&logo=odoo&logoColor=white" alt="VSM Odoo Partner">
   </a>
 </p>
 
