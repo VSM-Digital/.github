@@ -1,7 +1,7 @@
 <!-- VSM - README com foco moderno e visual -->
 
 <h1 align="center">
-   VSM Enterprise Solutions
+   VSM Digital
 </h1>
 
 <p align="center">
