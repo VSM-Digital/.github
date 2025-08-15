@@ -1,7 +1,7 @@
 <!-- VSM - README moderno e técnico -->
 
 <h1 align="center">
-   🚀 VSM Digital
+    VSM Digital
 </h1>
 
 <p align="center">
