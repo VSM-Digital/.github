@@ -52,6 +52,6 @@
 ## 📬 Contato
 
 <p align="center">
-  🌐 <a href="https://www.vsm.com.br">www.vsm.com.br</a> &nbsp;|&nbsp;
-  📧 contato@vsm.com.br &nbsp;|&nbsp;
+  🌐 <a href="https://www.vsm.com.br">www.vsmdigital.com.br</a> &nbsp;|&nbsp;
+  📧 comercial@vsmdigital.com.br &nbsp;|&nbsp;
   🔗 <a href="https://li
