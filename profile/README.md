@@ -67,7 +67,7 @@
 - 📦 **Estoque & Logística** – rastreabilidade, multi-localização e WMS
 - 💰 **Financeiro & Contábil** – integração bancária, conciliação e relatórios fiscais
 - 📑 **Projetos & Serviços** – gestão de tarefas, prazos e faturamento por projeto
-- 🧾 **Fiscal (Brasil)** – NF-e, NFC-e, NFS-e e integração com SEFAZ
+- 🧾 **Fiscal (Brasil)** – NF-e, NFC-e, NFS-e, integração com SEFAZ e obrigações Acess
 
 ---
 
@@ -76,5 +76,4 @@
 <p align="center">
   🌐 <a href="https://www.vsmdigital.com.br">www.vsmdigital.com.br</a> &nbsp;|&nbsp;
   📧 comercial@vsmdigital.com.br &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/company/vsm-digital">LinkedIn</a>
 </p>
